@@ -1,0 +1,16 @@
+{
+"name": "lsm99connect",
+"theme": "lsm99connect",
+"version": "7.8.4",
+"description": "lsm99connect ทางเข้าเว็บพนันเว็บตรง อันดับ 1 ให้โบนัสเครดิตฟรี",
+"keywords": [
+"lsm99connect",
+"lsm99connect เครดิตฟรี",
+"lsm99connect ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/lsm99connect",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
